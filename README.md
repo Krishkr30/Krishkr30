@@ -20,5 +20,5 @@
 ---
 
 ### 🤝 Connect With Me
-- **LinkedIn:** [Krish Kumar](https://in.linkedin.com/in/krish-kumar)
+- **LinkedIn:** [Krish Kumar]([https://in.linkedin.com/in/krish-kumar](https://www.linkedin.com/in/krishkr30?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 - **GitHub:** [github.com/Krishkr30](https://github.com/Krishkr30)
